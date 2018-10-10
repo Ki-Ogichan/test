@@ -1,3 +1,0 @@
-cherry_pick
-develop
-sample
